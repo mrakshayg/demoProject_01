@@ -4,5 +4,7 @@ public class TC_03 {
 
   String ele;
   String username;
+  
+  String num1;
 
 }
