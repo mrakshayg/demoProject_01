@@ -6,5 +6,8 @@ public class TC_03 {
   String username;
   
   String num1;
+  
+  String label;
+  String num2;
 
 }
